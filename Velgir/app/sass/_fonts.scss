@@ -1,0 +1,5 @@
+@import "_mixins";
+
+@include font-face("cinzel", "../fonts/cinzel/cinzel-v6-latin-regular", $style: normal, $weight: normal);
+// @include font-face("raleway", "../fonts/minion", $style: normal, $weight: bold);
+
